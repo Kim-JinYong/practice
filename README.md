@@ -1,2 +1,2 @@
-# practice
-2020. 04. ETRI edu 4
+# Hello-world
+2020. 04. ETRI edu 4 Start
